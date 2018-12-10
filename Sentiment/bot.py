@@ -29,4 +29,4 @@ async def on_message(message):
             await bot.send_message(message.author, "You are a nice person!")
 
 while True:
-    bot.run('NTIxMzYxNDA4MTY4OTUxODEx.Du7Tlw.yqPBzlsrcgcjcaBP1vMsYzUqZrE')
+    bot.run('')
